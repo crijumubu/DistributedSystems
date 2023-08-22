@@ -1,0 +1,9 @@
+resources\GetSongByTitleResponse.class
+resources\GetSongByTitle.class
+org\client\main\Main.class
+resources\package-info.class
+resources\Player.class
+resources\ObjectFactory.class
+resources\GetSongsResponse.class
+resources\PlayerService.class
+resources\GetSongs.class

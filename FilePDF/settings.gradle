@@ -1,0 +1,4 @@
+rootProject.name = 'FilePDF'
+include 'src:main:services'
+findProject(':src:main:services')?.name = 'services'
+
